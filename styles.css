@@ -1,0 +1,32 @@
+*{background-color:pink;}
+
+#header-init{text-align: center;
+text-decoration:double;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+
+#paragraph{width: 80%;
+line-height: 23px;
+font-style: italic;
+font-size: 17px;
+font-family: ;
+text-align:start;}
+
+
+#img1{width: 400px;}
+
+#ref{font-size: 15px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;}
+
+#test{font-size: 15px;
+font-style: italic;
+line-height: 0%;
+}
+
+.list{color:black;
+
+    }
+
+#external{color:red;
+line-height: 650px;
+text-align: left;
